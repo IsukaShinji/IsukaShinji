@@ -1,5 +1,7 @@
 <div align="center">
 
+![][banner]
+
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm HHB</h1>
 
 A curious student passionate about Artificial Intelligence, Data Science & Mathematical Modeling.
@@ -38,7 +40,12 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 
 <div align="right">
 
+![][signature]
+
 </div>
+
+[banner]: ./banner.png
+[signature]: ./signature.png
 
 [lang-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
 [lang-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
@@ -63,4 +70,3 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 [social-email-shield]: https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
-📫 **How to reach me:** [2116509463@qq.com]
