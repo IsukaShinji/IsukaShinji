@@ -27,8 +27,8 @@ I'm a student passionate about **Artificial Intelligence**, **Data Science**, an
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api?username=IsukaShinji&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://stats.justsong.cn/api/top-langs/?username=IsukaShinji&layout=compact&theme=radium&hide_border=true" width="48%" />
+  <img src="https://stats.cn-south-1.myhuaweicloud.com/api?username=IsukaShinji&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://stats.cn-south-1.myhuaweicloud.com/api/top-langs/?username=IsukaShinji&layout=compact&theme=radium&hide_border=true" width="48%" />
 </div>
 
 ---
