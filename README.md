@@ -20,38 +20,38 @@ Gaoling School of Artificial Intelligence
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.app?font=Fira+Code&weight=500&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=AI+%2B+Statistics+Learning;Mathematical+Modeling+Practice;Machine+Learning+Coursework;Web+Scraping+%26+Search+Prototype;Algorithm+Exercises" alt="Typing SVG" /></a>
 </div>
 
-### 🚀 Learning Notes / 学习记录
+### 🚀 About / 学习记录
 
-我目前仍处在打基础和补短板的阶段。这个主页和相关仓库更像是一份学习记录：记录我如何在课程实验、建模练习和 Python 小项目中慢慢理解数据处理、模型假设、验证方法和报告表达。仓库中有不少代码是在 AI 辅助下完成或改进的，所以我不把它们当作“能力证明”，而是把它们当作继续学习、复盘和接受指正的材料。
+我还在补基础，也还有很多地方理解得不够深。这个主页主要是整理一下我做过的课程实验、建模练习和 Python 小项目，方便自己回头复盘，也方便别人知道这些仓库大概是什么。
 
-I am still at an early learning stage. This profile is not meant to overstate my work; it is a record of coursework, modeling practice, and small Python projects, including code that was written or improved with AI assistance.
+有些 Python 代码是 AI 辅助完成或修改的，所以我不会把它们说成完全独立完成的作品。更准确地说，它们记录了我当时如何理解题目、改代码、看结果，以及后来发现哪些地方还需要继续学。
 
-- **Modeling practice / 建模练习:** 在课程和比赛语境中接触 Bayesian inverse inference、基础仿真、方差分解、公平性相关指标和统计验证；很多地方仍需要更系统地学习理论依据。
-- **Machine learning exposure / 机器学习接触:** 通过实验接触 regression、sparse learning、kernel methods、PCA/RPCA、manifold learning、Random Forest 和 PyTorch；重点仍是理解方法边界，而不是追求复杂模型。
-- **Small prototypes / 小型原型:** 尝试过 crawler pipeline、URL normalization、中文分词、倒排索引、BM25 和简单 Flask 页面；这些更接近练习原型，距离稳定工程还有差距。
-- **Algorithm exercises / 算法练习:** 通过作业练习 divide-and-conquer、randomized algorithms、heaps、SCC/Tarjan、Johnson/Floyd-Warshall、2SAT、Huffman coding；主要用于加深对课堂内容的理解。
+Still learning, still making notes. I try to keep the wording modest because many details deserve more careful study.
 
-### 🔭 Featured Work / 项目与练习
+- **Modeling practice / 建模练习:** 接触过 Bayesian inverse inference、基础仿真、方差分解、公平性相关指标和统计验证，但很多理论细节还需要慢慢补。
+- **Machine learning exposure / 机器学习接触:** 通过课程实验学过 regression、sparse learning、kernel methods、PCA/RPCA、manifold learning、Random Forest 和 PyTorch 的一些基础用法。
+- **Small prototypes / 小型原型:** 做过网页抓取、URL 处理、中文分词、倒排索引、BM25 和简单 Flask 页面，更多是练手性质。
+- **Algorithm exercises / 算法练习:** 写过一些课堂作业代码，例如分治、随机化算法、堆、SCC/Tarjan、Johnson/Floyd-Warshall、2SAT、Huffman coding。
 
-| Project | What it demonstrates | Stack / Methods |
+### 🔭 Some Records / 项目与练习
+
+| Project | Notes | Stack / Methods |
 | :--- | :--- | :--- |
-| [2026 MCM Problem C][repo-mcm-2026] | I mainly worked around Task 1, trying to infer hidden fan votes from historical elimination data. Later I spent more effort on LaTeX writing, formatting, figure integration, and result presentation. | MCMC, Bayesian inference, Random Forest, data visualization, LaTeX |
-| [Simple Python Project][repo-python-project] | A learning archive for coursework, modeling scripts, algorithm assignments, and small prototypes. Some code is AI-assisted; the notes try to honestly mark rough parts, assumptions, and limitations. | Python, NumPy, pandas, scikit-learn, PyTorch, SciPy, matplotlib, seaborn |
-| 2025 Programming Training Search Prototype | A small information retrieval exercise: crawling pages, normalizing URLs, tokenizing Chinese text, building an inverted index, trying BM25, and showing results with Flask. | requests, BeautifulSoup, jieba, BM25, Flask |
-| 2026 Spring ML Labs | Course labs where I practiced polynomial regression, sparse models, kernel regression, PCA/RPCA/NMF, compressed sensing, manifold learning, EM point-set registration, and simple fairness checks. | NumPy, scipy, matplotlib |
-| 2025 Fall AI Labs | Course experiments where I learned from Word2Vec, Transformer NMT, CIFAR-10 CNN/VGG/ResNet, audio processing, Monte Carlo, pruning, and K-Means materials. | PyTorch, Word2Vec, Transformer, CNN, librosa |
-| Modeling Competitions | Practice records from 2023 CUMCM C and 2025 CUMCM A style problems. Many scripts are iterative attempts rather than polished solutions. | optimization, geometry modeling, time-series aggregation, heuristic search |
+| [2026 MCM Problem C][repo-mcm-2026] | 我主要做第一问附近的内容，尝试从历史淘汰结果反推粉丝投票；后面更多是在整理 LaTeX 论文、图表和表达。 | MCMC, Bayesian inference, Random Forest, data visualization, LaTeX |
+| [Simple Python Project][repo-python-project] | 课程、建模和算法练习的归档。有些代码有 AI 辅助，README 会尽量写清楚哪些是草稿、哪些地方还不稳。 | Python, NumPy, pandas, scikit-learn, PyTorch, SciPy, matplotlib, seaborn |
+| 2025 Programming Training Search Prototype | 一个小型检索练习：抓网页、处理 URL、中文分词、建倒排索引、试 BM25，再用 Flask 做简单页面。 | requests, BeautifulSoup, jieba, BM25, Flask |
+| 2026 Spring ML Labs | 机器学习基础课程实验，内容包括回归、稀疏模型、核方法、PCA/RPCA、压缩感知、流形学习和简单公平性检查。 | NumPy, scipy, matplotlib |
+| 2025 Fall AI Labs | 人工智能引论课程实验，接触过 Word2Vec、Transformer NMT、CIFAR-10 分类、音频处理、Monte Carlo、剪枝和 K-Means。 | PyTorch, Word2Vec, Transformer, CNN, librosa |
+| Modeling Competitions | 2023 国赛 C、2025 国赛 A 等题目的练习记录。很多脚本是比赛推进中的尝试，不是整理好的标准答案。 | optimization, geometry modeling, time-series aggregation, heuristic search |
 
 ### 🧠 2026 MCM C Contribution / 美赛 C 题参与情况
 
-My main technical contribution in the 2026 MCM C project was around Task 1. The later tasks and final paper were team work; I was more involved in LaTeX writing, formatting, figure placement, and result presentation. I still regard the modeling assumptions and validation choices as things worth revisiting carefully.
+我在这个项目里主要参与第一问附近的建模和代码。后面的任务是团队一起推进的，我更多做 LaTeX 写作、排版、图表整合和结果呈现。第一问里用到的一些假设和验证方式，我现在看也觉得还有不少值得再推敲的地方。
 
-我在该项目中的主要技术参与集中在第一问附近；后续更多参与的是 LaTeX 论文写作、排版、图表整合和结果呈现。建模假设和验证方式仍有很多值得继续学习和复盘的地方。
-
-- **Task 1 modeling:** treated fan votes as latent variables and tried to infer them from historical elimination outcomes under era-specific scoring rules.
-- **Data processing:** organized contestant-week records, judge scores, inferred vote shares, uncertainty indicators, and visualization outputs.
-- **ML support:** used Random Forest-style feature association as an exploratory tool, not as a final explanation by itself.
-- **Paper work:** helped turn code outputs, tables, and figures into a clearer LaTeX report.
+- **Task 1 modeling:** 把粉丝投票当作不可直接观测的变量，尝试根据历史淘汰结果反推。
+- **Data processing:** 整理选手-周次数据、评委分、推断投票份额和不确定性指标。
+- **ML support:** Random Forest 主要作为探索性分析工具使用，不把它当成最终解释本身。
+- **Paper work:** 参与把代码输出、表格和图片整理进 LaTeX 论文。
 
 ### 🛠️ Tools I Have Touched / 接触过的工具
 
@@ -73,9 +73,9 @@ My main technical contribution in the 2026 MCM C project was around Task 1. The 
 
 ### 🧩 Current Direction / 近期整理方向
 
-我正在把已有代码从“课程/竞赛推进痕迹”逐步整理成更清楚的学习档案：补充 README、区分核心脚本和草稿脚本、记录复现条件，并把关键模型的假设、变量、AI 辅助痕迹和验证方式写清楚。当前目标不是把自己包装成成熟工程师，而是更诚实地面对自己还不懂的地方，逐步提高独立理解、复现、修改和解释代码的能力。
+我现在主要在做整理：补 README，标出核心脚本和草稿脚本，记录哪些地方依赖本地数据，哪些地方有 AI 辅助，哪些结论只是阶段性结果。希望以后回头看时，能知道自己当时哪里想清楚了，哪里其实还没想清楚。
 
-I am trying to make my repositories more readable: documenting assumptions, marking rough drafts, noting reproducibility conditions, and being honest about where AI assistance was involved.
+I am slowly cleaning up these repositories so that the assumptions, rough drafts, local paths, and AI-assisted parts are easier to see.
 
 ### 📌 Repositories Mentioned / 相关仓库
 
